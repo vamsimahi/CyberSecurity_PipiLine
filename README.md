@@ -79,7 +79,7 @@ Click "Start Scan" to execute
 
 🛡️ Running Nmap Scan Manually
 
-nmap -sV -A -T4 <TARGET-IP>
+nmap <TARGET IP>
 
 🔍 Running Gobuster Manually
 
